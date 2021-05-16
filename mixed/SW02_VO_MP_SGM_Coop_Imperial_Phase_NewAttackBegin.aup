@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="SW02_VO_MP_SGM_Coop_Imperial_Phase_NewAttackBegin_data" version="1.3.0" audacityversion="2.4.2" sel0="0.0000000000" sel1="8.3863945578" vpos="16" h="0.0000000000" zoom="149.0509409474" rate="48000.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="ARTIST" value="M People"/>
+		<tag name="TITLE" value="Moving on up"/>
+	</tags>
+	<wavetrack name="SW02_VO_MP_SGM_Coop_Imperial_Phase_NewAttackBegin" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="248832">
+				<waveblock start="0">
+					<simpleblockfile filename="e080804f.au" len="248832" min="-0.448822" max="0.548096" rms="0.042998"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="movingonup" isSelected="1" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="402547">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808e08.au" len="195795" min="-0.086138" max="0.077476" rms="0.015121"/>
+				</waveblock>
+				<waveblock start="195795">
+					<simpleblockfile filename="e08080d6.au" len="131072" min="-0.084844" max="0.073587" rms="0.014596"/>
+				</waveblock>
+				<waveblock start="326867">
+					<simpleblockfile filename="e08087dc.au" len="75680" min="-0.075372" max="0.066654" rms="0.013986"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="movingonup" isSelected="1" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="402547">
+				<waveblock start="0">
+					<simpleblockfile filename="e08088f2.au" len="195795" min="-0.067482" max="0.065658" rms="0.01399"/>
+				</waveblock>
+				<waveblock start="195795">
+					<simpleblockfile filename="e0808dd8.au" len="131072" min="-0.071491" max="0.06999" rms="0.013562"/>
+				</waveblock>
+				<waveblock start="326867">
+					<simpleblockfile filename="e0808f92.au" len="75680" min="-0.057554" max="0.068872" rms="0.012978"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
