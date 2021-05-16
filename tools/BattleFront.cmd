@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Origin\EALink.exe" "link2ea://launchgame/MtMassive?AUTH_PASSWORD=0&AUTH_TYPE=exchangecode&epicusername=&epicuserid=&epiclocale=en&theme=sws&platform=epic&Hotfix=go& -datapath %%22E:\OriginGames\STAR WARS Battlefront II\ModData%%22"
